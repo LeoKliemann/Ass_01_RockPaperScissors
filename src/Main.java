@@ -54,5 +54,9 @@ public class Main{
     {
         Scanner in = new Scanner(System.in);
 
+        String playerA = "";
+        String playerB = "";
+        String playAgain = "";
+
     }
 }
